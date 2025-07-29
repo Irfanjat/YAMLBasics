@@ -1,0 +1,6 @@
+#String data types:
+mySelf: Irfan ALi
+age: "Twenty years old"
+place: 'Badin'
+
+cities: [ hyderabad, badin, karachi ]
