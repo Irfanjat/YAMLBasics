@@ -1,0 +1,22 @@
+name: irfan
+age: 22
+cricketer: true
+---
+#this represents different type of documents
+
+#this is a comment
+cities:
+- karachi
+- pakistan
+- hyderabad
+- badin
+
+#This is lists in yaml
+
+- apple
+- mango
+- orange
+#yaml is a case sensitive language
+- APPLE
+"irfan": "Hi iam irfan Iam here to learn some basic yaml stuff"
+... #this is the end point of documents
