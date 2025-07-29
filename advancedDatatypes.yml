@@ -1,0 +1,16 @@
+student: !!seq
+  - marks
+  - name
+  - roll_num
+
+city: [ hyderabad, karachi, badin ]
+
+#some of the keys of seq will be empty which called
+#sparse seq
+
+sparse seq:
+- pakistan
+- australia
+
+- 
+- england
