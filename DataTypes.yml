@@ -4,3 +4,13 @@ age: "Twenty years old"
 place: 'Badin'
 
 cities: [ hyderabad, badin, karachi ]
+
+#write a single line on multiple lines
+# message: >
+#  this will
+#  all be 
+#  in one single lne
+
+numbers: 1234
+marks: 23.44
+booleanvalue: NO
